@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Paquetes jar/jtopen_8_5/lib/jt400.jar"/>
+	<classpathentry kind="lib" path="C:/Paquetes jar/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="C:/Paquetes jar/jakarta-poi.jar"/>
+	<classpathentry kind="lib" path="C:/Paquetes jar/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/Paquetes jar/exml-7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Paquetes jar/commons-codec-1.9/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Paquetes jar/javamail-1.4.7/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Paquetes jar/mysql-connector-java-5.1.15-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Paquetes jar/jdom-2.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Paquetes jar/sun.misc.BASE64Decoder.jar"/>
+	<classpathentry kind="lib" path="C:/Paquetes jar/h2-1.2.141.jar"/>
+	<classpathentry kind="lib" path="C:/Paquetes jar/jbosssx-3.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Paquetes jar/xmlunit-1.6/lib/xmlunit-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Paquetes jar/httpclient-4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Paquetes jar/httpcore-4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Paquetes jar/javax.ws.rs.jar"/>
+	<classpathentry kind="lib" path="C:/Paquetes jar/javax.ws.rs-api-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Paquetes jar/apache-xml-xerces.jar"/>
+	<classpathentry kind="lib" path="C:/Paquetes jar/commons-lang3-3.6/commons-lang3-3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Paquetes jar/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Paquetes jar/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Paquetes jar/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Paquetes jar/commons-collections4-4.1/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Paquetes jar/commons-collections-3.2.2/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Paquetes jar/commons-beanutils-1.9.3/commons-beanutils-1.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/Paquetes jar/jtds-1.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Paquetes jar/chatter-bot-api.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
